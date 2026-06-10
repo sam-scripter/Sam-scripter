@@ -23,8 +23,8 @@ I build things that work in production — mobile apps, backend systems, and AI 
 | Project | What it does | Stack |
 |---|---|---|
 | [**shadivahlabs.com**](https://shadivahlabs.com/chat) | RAG-powered AI portfolio — ask it anything about my work. Includes Recruiter Mode with JD fit analysis | Next.js · FastAPI · pgvector · Docker |
-| [**Stratum**](https://play.google.com/store/apps/details?id=com.shadiva.stratum) | Android app that parses M-Pesa SMS automatically and generates AI financial analysis | Flutter · Hive · OpenAI API |
-| [**Number Your Days**](https://play.google.com/store/apps/details?id=com.shadiva.numberyourdays) | AI journaling app with tiered analysis — daily with Gemini Flash, monthly with Gemini Pro. 98% token reduction via summarisation chaining | Flutter · Firebase · Gemini AI |
+| [**Stratum**](https://play.google.com/store/apps/details?id=com.shadivah.stratum) | Android app that parses M-Pesa SMS automatically and generates AI financial analysis | Flutter · Hive · OpenAI API |
+| [**Number Your Days**](https://play.google.com/store/apps/details?id=com.shadivah.nyd) | AI journaling app with tiered analysis — daily with Gemini Flash, monthly with Gemini Pro. 98% token reduction via summarisation chaining | Flutter · Firebase · Gemini AI |
 | **Atlas** | Autonomous job search agent — discovers postings via RSS, scores them, drafts applications. Runs 3× daily with zero human intervention | Python · PostgreSQL · Cron |
 
 ---
