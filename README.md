@@ -4,7 +4,7 @@
 
 I build things that work in production — mobile apps, backend systems, and AI agents that actually finish the job.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shadivahlabs.com-64ffda?style=flat-square&labelColor=0a192f)](https://shadivahlabs.com/chat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shadivahlabs.com-64ffda?style=flat-square&labelColor=0a192f)](https://shadivahlabs.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelshadiva-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelshadiva)
 [![Email](https://img.shields.io/badge/Email-shadivasam@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shadivasam@gmail.com)
 
